@@ -6,5 +6,5 @@ function takeANumber(katzDeliLine,name){
 };
 
 function nowServing() {
-  if(katzDeliLine = isNaN)
+  if(katzDeliLine === isNaN)
 }
