@@ -15,5 +15,4 @@ function nowServing() {
     katzDeliLine.shift();
     return "Currently" +name+ "served";
   }
-  }
 }
