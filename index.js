@@ -11,7 +11,8 @@ function nowServing() {
   }
   else {
     var temp;
-    temp = 
+    temp = katzDeliLine[0];
+    
   }
   }
 }
