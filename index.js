@@ -9,5 +9,5 @@ function nowServing() {
   if(katzDeliLine.length === 0 ) {
      return "There is nobody waiting to be served!";
   }
-print "Currently Serving Steven";
+return "Currently Serving Steven";
 }
