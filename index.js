@@ -21,6 +21,8 @@ function currentLine(katzDeliLine) {
   }
   else {
     var temp = [];
-    
+    for (var i=0; i < katzDeliLine.length; i++) {
+      temp = katzDeliLine
+    }
   }
 }
