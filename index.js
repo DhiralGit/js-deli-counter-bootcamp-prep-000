@@ -13,6 +13,6 @@ function nowServing() {
     var temp;
     temp = katzDeliLine[0];
     katzDeliLine.shift();
-    return "Currently serving " +name;
+    return "Currently serving " +temp;
   }
 }
