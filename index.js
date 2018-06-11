@@ -1,7 +1,6 @@
-var katzDeli = [];
 var katzDeliLine = katzDeli.length;
 
-function takeANumber(personName){
+function takeANumber(katzDeliLine,name){
 
   katzDeli.push(personName);
   
