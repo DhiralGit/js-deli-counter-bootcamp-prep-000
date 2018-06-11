@@ -13,6 +13,7 @@ function nowServing() {
     var temp;
     temp = katzDeliLine[0];
     katzDeliLine.shift();
+    return ""
   }
   }
 }
