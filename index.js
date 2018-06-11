@@ -8,6 +8,10 @@ function takeANumber(katzDeliLine,name){
 function nowServing() {
   if(katzDeliLine === isNaN) {
     return "There is nobody waiting to be served!";
-    
+  }
+  else {
+    var temp;
+    temp = 
+  }
   }
 }
