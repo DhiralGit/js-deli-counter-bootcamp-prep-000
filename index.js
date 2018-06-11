@@ -6,7 +6,7 @@ function takeANumber(katzDeliLine,name){
 };
 
 function nowServing() {
-  if(katzDeliLine === undefined && katzDeliLine.length === 0) {
+  if(katzDeliLine === undefined ) {
     return "There is nobody waiting to be served!";
   }
   else {
